@@ -1,0 +1,7 @@
+{
+  "name": "Smart College Assistant",
+  "description": "AI-powered digital campus companion for students, faculty, parents, and administrators featuring attendance predictors, CGPA projection, study planner, campus navigation, and chatbot.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
